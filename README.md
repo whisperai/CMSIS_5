@@ -1,3 +1,7 @@
+# Whisper Fork
+
+Whisper's fork removes the LFS files and commits the one library we use directly to source control. It is on branch *vendor*.
+
 # CMSIS Version 5
 
 The branch *master* of this GitHub repository contains the CMSIS Version 5.7.0.  The [documentation](http://arm-software.github.io/CMSIS_5/General/html/index.html) is available under http://arm-software.github.io/CMSIS_5/General/html/index.html
