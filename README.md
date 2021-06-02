@@ -1,3 +1,8 @@
+# Whisper Fork
+
+The Whisper fork removed LFS pointers in favor of vendoring the required binary and added support for 64-bit ARM (Android). It is housed on
+branch *whisper*.
+
 # CMSIS Version 5
 
 The branch *master* of this GitHub repository contains the CMSIS Version 5.7.0.  The [documentation](http://arm-software.github.io/CMSIS_5/General/html/index.html) is available under http://arm-software.github.io/CMSIS_5/General/html/index.html
